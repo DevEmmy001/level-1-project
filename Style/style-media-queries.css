@@ -124,7 +124,7 @@
       border: 1px solid rgba(255, 255, 255, 0.479);
     }
     .sliding__images__container {
-      background-color: red;
+      /* background-color: red; */
       display: grid;
       grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
       align-items: center;
